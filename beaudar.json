@@ -1,5 +1,6 @@
 {
   "origins": [
-    "https://zombromine.top"
+    "https://zombromine.top",
+    "https://localhost:4000"
   ]
 }
